@@ -1,52 +1,6 @@
 {
   "dogs": [
     {
-      "id": 1,
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male"
-    },
-    {
-      "id": 1,
-      "name": "Tommy",
-      "age": 3,
-      "place": "Banglore",
-      "gender": "Female"
-    },
-    {
-      "id": 3,
-      "name": "रौतान",
-      "age": "8",
-      "gender": "female",
-      "place": "delhi",
-      "createdAt": 1682060414587
-    },
-    {
-      "id": "LuQSkIzyEx",
-      "name": "gs",
-      "age": "4",
-      "gender": "male",
-      "place": "hfj",
-      "createdAt": 1682060567643
-    },
-    {
-      "id": "1hLp8h562G",
-      "name": "",
-      "age": "",
-      "gender": "male",
-      "place": "",
-      "createdAt": 1682060572560
-    },
-    {
-      "id": "DNsmpVRzU0",
-      "name": "",
-      "age": "",
-      "gender": "male",
-      "place": "",
-      "createdAt": 1682060575642
-    },
-    {
       "id": "lTJNOeGLAY",
       "name": "fhdhhjf",
       "age": "85",
@@ -55,12 +9,12 @@
       "createdAt": 1682060584549
     },
     {
-      "name": "brazil",
-      "age": "12",
+      "id": 5,
+      "name": "chli",
+      "age": "5",
       "gender": "female",
-      "place": "mysore",
-      "createdAt": 1682060718067,
-      "id": "2WcAWesIhJ"
+      "place": "amrabati",
+      "createdAt": 1682071580463
     }
   ],
   "cats": [
